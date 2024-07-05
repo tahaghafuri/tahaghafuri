@@ -7,6 +7,8 @@ Reach Me At Telegram:[@tahaghafuri](https://t.me/tahaghafuri/)<br>
 ### Prices Without Discount
 1 File -> 4.5 Euro<br>
 5 Files -> 15 Euro
+### Dynamic Key Or External Key
+For Each File 45 Euro,Requires Some Time To Construct The Key And Decrypt.<b>But for now we need all the files related to it.</b>
 ##  آفر ویژه!
 ما تمام فایل های پی اچ پی را رمزگشایی میکنیم(یون کیوب،پلسک،سورس گاردین و زند و . . .) و همینطور فایل نود جی اس و جاوااسکریپت،<br>
 با من در تلگرام در تماس باشید:[@tahaghafuri](https://t.me/tahaghafuri/)<br>
