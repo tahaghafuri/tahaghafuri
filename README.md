@@ -3,23 +3,12 @@
 ### Best Offer
 We Decrypt Any PHP File (IOncube,Zend,SourceGuardian,Plesk, . . .) And Also JS Files,<br>
 Reach Me At Telegram:[@tahaghafuri](https://t.me/tahaghafuri/)<br>
-<b>If you don't intend to order, send a message, you will be blocked.</b>
 ### Prices Without Discount
 1 File -> 4.5 Euro<br>
 2 Files -> 9 Euro<br>
 5 Files -> 18 Euro
 ### Dynamic Key Or External Key
 For Each File 45 Euro,Requires Some Time To Construct The Key And Decrypt.<b>But for now we need all the files related to it.</b>
-##  آفر ویژه!
-ما تمام فایل های پی اچ پی را رمزگشایی میکنیم(یون کیوب،پلسک،سورس گاردین و زند و . . .) و همینطور فایل نود جی اس و جاوااسکریپت،<br>
-با من در تلگرام در تماس باشید:[@tahaghafuri](https://t.me/tahaghafuri/)<br>
-<b>قصد سفارش ندارید پیام بدید،بن میشید.</b><br>
-<b>فایل های ایرانی پذیرفته نمی شود!</b>
-## قیمت ها بدون تخفیف
-یک فایل -> 300 هزار تومن<br>
-5 فایل -> 900  هزار تومن
-# Very Important
-Our decoders will be available soon!<br>
-<b>Everyone will have access to it, but we need funding for now,<br> in the next few weeks it will be available online with software for all smart devices,<br>You will be able to decrypt your file in less than a few seconds.<br>Join Our Telegram Channel Wait List: [@id_waitlist](https://t.me/id_waitlist)!<br>We only prioritize people on the list.</b><br>
-<h2>Membership and waiting list will be closed on July 20.</h2>
-<h1>Spam accounts and . . . will be blocked!</h1>
+## رمزگشایی فایل های پی اچ پی(یون کیوب و . . .)
+جزئیات بیشتر در [https://tagservice.ir](https://tagservice.ir)<br>
+سایت داخلیست!
