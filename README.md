@@ -18,3 +18,7 @@ For Each File 45 Euro,Requires Some Time To Construct The Key And Decrypt.<b>But
 ## قیمت ها بدون تخفیف
 یک فایل -> 300 هزار تومن<br>
 5 فایل -> 900  هزار تومن
+# Very Important
+Our decoders will be available soon!<br>
+<b>Everyone will have access to it, but we need funding for now,<br> in the next few weeks it will be available online with software for all smart devices,<br>You will be able to decrypt your file in less than a few seconds.<br>Join Our Telegram Channel Wait List: [@id_waitlist](https://t.me/id_waitlist)!</b><br>
+<h1>Spam accounts and . . . will be blocked!</h1>
