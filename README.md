@@ -6,8 +6,8 @@ Reach Me At Telegram:[@tahaghafuri](https://t.me/tahaghafuri/)<br>
 <b>If you don't intend to order, send a message, you will be blocked.</b>
 ### Prices Without Discount
 1 File -> 4.5 Euro<br>
-2 Files -> 7 Euro<br>
-5 Files -> 15 Euro
+2 Files -> 9 Euro<br>
+5 Files -> 18 Euro
 ### Dynamic Key Or External Key
 For Each File 45 Euro,Requires Some Time To Construct The Key And Decrypt.<b>But for now we need all the files related to it.</b>
 ##  آفر ویژه!
