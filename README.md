@@ -7,6 +7,7 @@ Reach Me At Telegram:[@tahaghafuri](https://t.me/tahaghafuri/)<br>
 1 File -> 4.5 Euro<br>
 2 Files -> 9 Euro<br>
 5 Files -> 18 Euro
+7 Files -> 23 Euoro
 ## رمزگشایی فایل های پی اچ پی(یون کیوب و . . .)
 با من در تلگرام در ارتباط باشید: [@tahaghafuri](https://t.me/tahaghafuri/)<br>
 <b>قیمت های زیر با تخفیف اعمال شده و فاقد تغییر است!</b><br>
