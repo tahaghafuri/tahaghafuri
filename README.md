@@ -14,5 +14,12 @@ Reach Me At Telegram:[@tahaghafuri](https://t.me/tahaghafuri/)<br>
 2 Files -> 8 Euro -> $8.8<br>
 5 Files -> 15 Euro -> $17<br>
 7 Files -> 20 Euoro -> $22<br>
+### Best Offer For PHPBolt And Eval And Plesk
+100 Files -> $100
+200 Files -> $200
+### Best Offer For NodeJS And Javascript And Lua
+50 Files -> $60
+### Best Offer For Cracks Order
+$150 -> For Each Software Crack
 ## رمزگشایی فایل های یونکیوب و سورس گاردین و نود جی اس و . . . 
 <h3>برای اطلاعات بیشتر به سایت https://tagservice.ir مراجعه کنید.</h3>
