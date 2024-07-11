@@ -8,7 +8,7 @@ Reach Me At Telegram:[@tahaghafuri](https://t.me/tahaghafuri/)<br>
 2 Files -> €9 -> $9<br>
 5 Files -> €18 -> $19.5<br>
 7 Files -> €23 -> $25<br>
-<b>Until the completion of the development of the online decoder site, we do not accept large files.</b>
+<!--b>Until the completion of the development of the online decoder site, we do not accept large files.</b-->
 ### Prices With Discount For SourceGuardian
 1 File -> €4 -> $4.5<br>
 2 Files -> €8 -> $8.8<br>
