@@ -17,7 +17,6 @@ Reach Me At Telegram:[@tahaghafuri](https://t.me/tahaghafuri/)<br>
 ### Best Offer For PHPBolt And Eval And Plesk
 1 File -> €3 -> $4<br>
 50 Files -> €43 -> $46<br>
-<b>* Call for the price of more files.</b>
 ### Best Offer For NodeJS And Javascript And Lua
 50 Files -> €57 -> $60
 <!--### Best Offer For Cracks Order
