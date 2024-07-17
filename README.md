@@ -27,4 +27,4 @@ Reach Me At Telegram:[@tahaghafuri](https://t.me/tahaghafuri/)<br>
 |----------|-----------|-----------|
 | 50 Files | €57       | $60       |
 ## رمزگشایی فایل های یونکیوب و سورس گاردین و نود جی اس و . . . 
-<h3>قیمت ها همانند بالا براساس نرخ روز ارز محاسبه می شود.جهت تماس تلگرام: </h3>[@tahaghafuri](https://t.me/tahaghafuri/)
+قیمت ها همانند بالا براساس نرخ روز ارز محاسبه می شود.جهت تماس تلگرام:[@tahaghafuri](https://t.me/tahaghafuri/)
