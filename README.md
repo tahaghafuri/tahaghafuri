@@ -1,5 +1,8 @@
 ## Hi there 👋
 [My Website New Design!](https://tahaghafuri.ir/)
+## New Ubuntu/Debian Server Optimizer
+👌Run Now:<br>
+```sudo curl -s https://tahaghafuri.ir/ubuntu.sh | sudo bash```
 ### Best Offer
 We Decrypt Any PHP File (IOncube,Zend,SourceGuardian,Plesk, . . .) And Also JS Files,<br>
 Reach Me At Telegram:[@tahaghafuri](https://t.me/tahaghafuri/)<br>
