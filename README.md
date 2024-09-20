@@ -5,7 +5,7 @@
 ```
 sudo curl -s https://tahaghafuri.ir/ubuntu.sh | sudo bash
 ```
-### Best Offer
+<!--### Best Offer
 We Decrypt Any PHP File (IOncube,Zend,SourceGuardian,Plesk, . . .) And Also JS Files,<br>
 Reach Me At Telegram:[@tahaghafuri](https://t.me/tahaghafuri/)<br>
 ### Prices With Discount For Ioncube Decode
@@ -33,3 +33,4 @@ Reach Me At Telegram:[@tahaghafuri](https://t.me/tahaghafuri/)<br>
 | 50 Files | €57       | $60       |
 ## رمزگشایی فایل های یونکیوب و سورس گاردین و نود جی اس و . . . 
 قیمت ها همانند بالا براساس نرخ روز ارز محاسبه می شود.جهت تماس تلگرام:[@tahaghafuri](https://t.me/tahaghafuri/)
+-->
