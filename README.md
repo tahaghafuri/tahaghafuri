@@ -5,6 +5,8 @@
 ```
 sudo curl -s https://tahaghafuri.ir/ubuntu.sh | sudo bash
 ```
+## Ioncube & SourceGuardian & PHPBolt And Other PHP Encoders Available For Decrypted By US
+For News And Orders Join Our Telegram Channel: [@tahaaminghafuri](https://t.me/tahaaminghafuri/)
 <!--### Best Offer
 We Decrypt Any PHP File (IOncube,Zend,SourceGuardian,Plesk, . . .) And Also JS Files,<br>
 Reach Me At Telegram:[@tahaghafuri](https://t.me/tahaghafuri/)<br>
