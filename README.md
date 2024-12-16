@@ -2,6 +2,8 @@
 [My Website New Design!](https://tahaghafuri.ir/)
 ## New Ubuntu/Debian Server Optimizer
 👌Run Now:<br>
+## Special sale only until December 20th
+IonCube 13/14 decoder with online control panel without guidance and support only $200 for 1 month with immediate delivery
 ```
 sudo curl -s https://tahaghafuri.ir/ubuntu.sh | sudo bash
 ```
