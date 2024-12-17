@@ -5,9 +5,8 @@
 ```
 sudo curl -s https://tahaghafuri.ir/ubuntu.sh | sudo bash
 ```-->
-## Special sale only until December 20th
-IonCube 13/14 decoder with online control panel (with unlimited file decryption) without guidance and support only $200 for 1 month with instant delivery<br>
-To purchase, contact me via email or telegram.
+## 👌Ioncube Decoder Online
+[Dezender.IR](https://dezender.ir)
 <!--
 ## Ioncube & SourceGuardian & PHPBolt And Other PHP Encoders Available For Decrypted By US
 For News And Orders Join Our Telegram Channel: [@tahaaminghafuri](https://t.me/tahaaminghafuri/)
