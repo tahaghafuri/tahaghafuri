@@ -7,7 +7,8 @@ sudo curl -s https://tahaghafuri.ir/ubuntu.sh | sudo bash
 ```-->
 ## 👌Ioncube Decoder Online
 Ioncube 12/13/14 Decoder Online For PHP 8.1/8.2/8.3<br>
-[Dezender.IR](https://dezender.ir)
+[Dezender.IR](https://dezender.ir)<br>
+Cheap Sales Started: https://dezender.ir/product/ioncube-decoder/
 <!--
 ## Ioncube & SourceGuardian & PHPBolt And Other PHP Encoders Available For Decrypted By US
 For News And Orders Join Our Telegram Channel: [@tahaaminghafuri](https://t.me/tahaaminghafuri/)
