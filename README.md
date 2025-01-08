@@ -4,10 +4,10 @@
 👌Run Now:<br>
 ```
 sudo curl -s https://tahaghafuri.ir/ubuntu.sh | sudo bash
-```
+```-->
 ## 👌Ioncube Decoder Online
 Ioncube 12/13/14 Decoder Online For PHP 8.1/8.2/8.3<br>
-[Dezender.IR](https://dezender.ir)<br>
+[Dezender.IR](https://dezender.ir)<br><!--
 ## توجه
 برای خرید میتونید به آیدی تلگرام پیام بدید؛قبل از خرید هم میتونین برای صحت رمزگشایی وارد سایت بشید و فایلتون رو به صورت دمو رمزگشایی کنید.
 
