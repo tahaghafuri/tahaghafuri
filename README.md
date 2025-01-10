@@ -1,6 +1,11 @@
 ## Hi there 👋
 [My Website](https://tahaghafuri.ir/)
-<!--## New Ubuntu/Debian Server Optimizer
+## Notice
+In the coming hours, Source Guardian decryptors for PHP versions 8.1, 8.2, and 8.3 will be available, and the IonCube decryptors will also be updated. In this update, decryption performance has been improved by up to 10 times compared to previous versions, and the decryptors will also be available as a subscription.<br>
+The following changes will also be applied to the new version of the site:<br>
+None of our services will be available for Turkey and Iran.<br>
+All proxy IPs and virtual servers will also be blocked.<br>
+<!--## New Ubuntu/Debian Server Optimizer<br>
 👌Run Now:<br>
 ```
 sudo curl -s https://tahaghafuri.ir/ubuntu.sh | sudo bash
